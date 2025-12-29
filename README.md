@@ -42,6 +42,14 @@ It is tailored for students aiming for **Top-Tier Software & AI Engineering role
 
 ---
 
+## 📸 Screenshots
+
+| **Mission Control** | **The Roadmap** |
+|:---:|:---:|
+| <img src="dashboard.png" alt="Dashboard View" width="100%"> | <img src="roadmap.png" alt="Roadmap View" width="100%"> |
+
+---
+
 ## 🚀 Getting Started
 
 Because this is a serverless, single-file application, installation is instant.
@@ -83,16 +91,6 @@ The application tracks your progress through these specific domains:
 ### 🟣 Phase 5: The Capstone (Weeks 35-40)
 * **Focus:** Building a production-grade application.
 * **Project Options:** `ResumeAI Assistant` or `EduNexus LMS`.
-
----
-
-## 📸 Screenshots
-
-> *Add screenshots of your dashboard here to make the README pop!*
-
-| **Mission Control** | **The Roadmap** |
-|:---:|:---:|
-| <img src="https://via.placeholder.com/400x250?text=Dashboard+View" alt="Dashboard" width="400"/> | <img src="https://via.placeholder.com/400x250?text=Roadmap+View" alt="Roadmap" width="400"/> |
 
 ---
 
